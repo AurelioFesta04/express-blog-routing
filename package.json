@@ -1,0 +1,16 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Aurelio",
+  "license": "ISC",
+  "description": "gestione dei post",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
